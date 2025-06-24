@@ -4,7 +4,7 @@
 
 <h1>Hi, I'm Sahil Sobhani</h1>
 <strong>Software Developer</strong> — I build cool things that help people.  
-<p><strong>Favourite Project:</strong> <em>Khat</em> — AI Copilot for smart email communication.<p>
+<p><strong>Favourite Project:</strong> <em>Khat</em> —  Email That Writes Itself<p>
 
 **🛠️ Tech I Use:**  
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
