@@ -1,24 +1,23 @@
-# Hi, I'm Sahil Sobhani 👋
+<table border="0">
+  <tr>
+    <td valign="top" width="60%">
 
+<h1>Hi, I'm Sahil Sobhani</h1>
+<strong>Software Developer</strong> — I build cool things that help people.  
+<p><strong>Favourite Project:</strong> <em>Khat</em> —  Email That Writes Itself<p>
 
-**Software Developer** : I build cool things that help people.
+**🛠️ I Use:**  
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" />
 
-**Favourite Project** : _Khat_ — Email That Writes Itself
+🌐 Check out my website at: [sahilsobhani.live](https://sahilsobhani.live)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />
-</div>
-
-<p> Also, check out my website: <a href="https://sahilsobhani.live">sahilsobhani.live</a> </p>
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV5enBnOGgwc3RtOTNxY3RzZ3hudnptaHhrZ3Fob2J2eHk5MnpjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VMEUkqIrlfT2ouA7Yz/giphy.gif" width="40%" style="max-width: 300px;" />
-</div>
-
-<div align="center">
-  <em>Always learning, always building! 🚀</em>
-</div>
+</td>
+<td width="40%" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV5enBnOGgwc3RtOTNxY3RzZ3hudnptaHhrZ3Fob2J2eHk5MnpjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VMEUkqIrlfT2ouA7Yz/giphy.gif" width="300px" />
+</td>
+  </tr>
+</table>
