@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td valign="top" width="60%">
+    <td align="top" width="60%">
 
 <h1>Hi, I'm Sahil Sobhani</h1>
 <strong>Software Developer</strong> — I build cool things that help people.  
