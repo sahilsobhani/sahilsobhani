@@ -6,7 +6,7 @@
 <strong>Software Developer</strong> — I build cool things that help people.  
 <p><strong>Favourite Project:</strong> <em>Khat</em> —  Email That Writes Itself<p>
 
-**I Use:**  
+**🛠️ I USE:**  
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
