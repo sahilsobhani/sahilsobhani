@@ -5,6 +5,7 @@
 <h1>Hi, I'm Sahil Sobhani</h1>
 <strong>Software Developer</strong> — I build cool things that help people.  
 <p><strong>Favourite Project:</strong> <em>Khat</em> —  Email That Writes Itself<p>
+<p><strong>Working on:</strong> <em>Grimmar</em> — Telemetry and Governance layer for LLMs<p>
 
 
 🌐 Work at: [sahilsobhani.com](https://sahilsobhani.com)
