@@ -7,7 +7,7 @@
 <p><strong>Favourite Project:</strong> <em>Khat</em> —  Email That Writes Itself<p>
 
 
-🌐 Work at: [sahilsobhani.live](https://sahilsobhani.live)
+🌐 Work at: [sahilsobhani.live](https://sahilsobhani.com)
 
 </td>
 <td width="40%" align="center">
