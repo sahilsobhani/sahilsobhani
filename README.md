@@ -10,6 +10,9 @@
 
 🌐 Work at: [sahilsobhani.com](https://sahilsobhani.com)
 
+Previously at Accenture and Fermion
+
+
 </td>
 <td width="40%" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV5enBnOGgwc3RtOTNxY3RzZ3hudnptaHhrZ3Fob2J2eHk5MnpjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VMEUkqIrlfT2ouA7Yz/giphy.gif" width="300px" />
